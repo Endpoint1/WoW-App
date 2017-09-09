@@ -1,3 +1,11 @@
 <resources>
     <string name="app_name">WoWApp</string>
+    <string name="welcome_to_wow_creator">Welcome to WoW Creator</string>
+    <string name="username">Username</string>
+    <string name="welcome_to_the_wow_talent_calculator">Welcome to the WoW Talent Calculator</string>
+    <string name="dude">dude</string>
+    <string name="submit">Submit</string>
+    <string name="password">password</string>
+    <string name="start">start</string>
+    <string name="class_list">Class List</string>
 </resources>
